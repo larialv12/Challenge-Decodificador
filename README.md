@@ -6,24 +6,25 @@ Uma aplicação que criptografa textos,possiblitando troca de mensagens secretas
 <hr>
 As "chaves" de criptografia  utilizadas são:
 <br>
-A letra "e" é convertida para "enter"
+<strong>A letra "e" é convertida para "enter"</strong>
 <br>
-A letra "i" é convertida para "imes"
+<strong>A letra "i" é convertida para "imes"</strong>
 <br>
-A letra "a" é convertida para "ai"
+<strong>A letra "a" é convertida para "ai"</strong>
 <br>
-A letra "o" é convertida para "ober"
+<strong>A letra "o" é convertida para "ober"</strong>
 <br>
-A letra "u" é convertida para "ufat"
+<strong>A letra "u" é convertida para "ufat"</strong>
 <br>
 
 
 
 
-Versão Dekstop 💻
+<h1>Versão Dekstop 💻<h1>
+<br>
 
 ![Decodificador de Texto](https://user-images.githubusercontent.com/120762309/224177324-caa0c2db-7a65-46a2-8a49-d8c832d6a628.png)
-
-Versão Mobile 📱
-
+<br>
+<h1>Versão Mobile 📱<h1>
+<br>
 ![Screenshot_20230309-194723-444](https://user-images.githubusercontent.com/120762309/224178810-3b4c053c-fecd-4aeb-b1c2-9d8cfc632cee.png)
