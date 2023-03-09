@@ -4,11 +4,17 @@ Challenge oferecido pelo progama One-Oracle One Next em Parceria com a Plataform
 Uma aplicação que criptografa textos,possiblitando troca de mensagens secretas com outras pessoas.
 
 As "chaves" de criptografia  utilizadas são:
+<br>
 A letra "e" é convertida para "enter"
+<br>
 A letra "i" é convertida para "imes"
+<br>
 A letra "a" é convertida para "ai"
+<br>
 A letra "o" é convertida para "ober"
+<br>
 A letra "u" é convertida para "ufat"
+<br>
 
 
 
