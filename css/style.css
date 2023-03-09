@@ -1,0 +1,195 @@
+
+
+body {
+    background: red;
+}
+
+#logo {
+    max-width: 100%;
+    width: 3.5%;
+    position: absolute;
+    top: 20px;
+    left:60px;
+    
+    
+}
+
+#caixa {max-width: 100%;
+    
+    box-sizing: 0 0 0;
+    display: flex;
+    border: 0 none;
+    outline:none;
+    background:red;
+    font-size: 17px;
+    position: absolute;
+     left:280px;
+    top:30px;
+   padding: 100px; 
+   resize: none;
+   
+
+
+
+
+
+}
+
+
+
+#p1 {
+    position: absolute;
+    font-size: small;
+     left:295px;
+    top:430px;
+    margin:100px;
+    font-weight: bold;
+    
+  }
+  
+  #info {
+    max-width: 100%;
+    position: relative;
+      width: 1.5%;
+       top:527px;
+       left: 375px;
+       
+       
+      
+  }
+
+ #botao1 {
+    background-color: #00009C;
+    position: absolute;
+    top:560px;
+    padding: 15px 80px;
+    left: 380px;
+    color: azure;
+    border-radius: 10px;
+
+    
+ }
+  
+ #botao2 {
+    color: #00009C;
+    background-color: azure;
+    border-color: #00009C;
+    position: absolute;
+    top:560px;
+    left: 620px;
+    padding: 15px 80px;
+    border-radius: 10px;
+    
+    
+ }
+
+
+  .msg {
+  
+    font-weight: bold;
+
+    background:darkblue;
+   
+    position: absolute;
+    right: 0;
+    top: 3%;
+     margin-right: 25px;
+    border-radius: 30px;
+    border: darkblue solid 3px;
+    padding: 1px 30px;
+
+    
+    
+  
+  
+  
+  }
+
+
+
+  
+
+
+#boneco {
+    max-width: 100%;
+    display: flex;
+    position: absolute;
+    width: 17%;
+    right :80px;
+    top:30%;
+    margin-right: 25px;
+    opacity:0.5;
+    
+    
+}
+
+#botao3 {
+    position: absolute;
+    right: 70px;
+    top: 550px;
+     margin-right: 25px;
+    border-radius: 20px;
+    color:  blue;
+    background-color:white;
+    border-color: darkblue;
+    padding: 10px 80px;
+    font-weight: bold;
+     font-size: 17px;
+  line-height: 30px;
+   border-radius: 10px;
+   cursor: pointer;
+   
+
+
+  }
+
+
+
+
+
+    
+
+
+#linkedin{
+    max-width: 100%;
+    position: absolute;
+    left: 880px;
+
+    top:0;
+
+    width: 4rem;
+    opacity: 1.5;
+    border-radius: 20px;
+    
+    
+} 
+
+
+#github {
+    max-width: 100%;
+
+    position: absolute;
+    left: 840px;
+
+    top:9px;
+
+    width: 2.8rem;
+    opacity: 1.5;
+    border-radius: 15px;
+    
+
+    
+}  
+
+
+
+#copy {
+    text-align: center;
+    font-weight: bold;
+    font-size: 17px;
+    position: absolute;
+    top:890px;
+    right: 490px;
+    
+}
+
