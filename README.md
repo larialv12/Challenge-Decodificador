@@ -27,4 +27,4 @@ As "chaves" de criptografia  utilizadas são:
 <br>
 <h1>Versão Mobile 📱<h1>
 <br>
-![Screenshot_20230309-194723-444](https://user-images.githubusercontent.com/120762309/224178810-3b4c053c-fecd-4aeb-b1c2-9d8cfc632cee.png)
+![Screenshot_20230309-194723-444](https://user-images.githubusercontent.com/120762309/224181199-228db6f3-76fb-42d3-8b41-2026aef74184.png)
