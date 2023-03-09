@@ -1,8 +1,8 @@
 <h1 align="center">Challenge-Decodificador</h1>
-Challenge oferecido pelo progama One-Oracle One Next em Parceria com a Plataforma Alura.
+<i>Challenge oferecido pelo progama One-Oracle One Next em Parceria com a Plataforma Alura.
 <br>
 
-Uma aplicação que criptografa textos,possiblitando troca de mensagens secretas com outras pessoas.
+Uma aplicação que criptografa textos,possiblitando troca de mensagens secretas com outras pessoas.</i>
 <hr>
 As "chaves" de criptografia  utilizadas são:
 <br>
